@@ -1,0 +1,7 @@
+D:\Brunda\Programs_Project\Programs_Project\Programs_Project\obj\Debug\Programs_Project.csproj.AssemblyReference.cache
+D:\Brunda\Programs_Project\Programs_Project\Programs_Project\obj\Debug\Programs_Project.csproj.CoreCompileInputs.cache
+D:\Brunda\Programs_Project\Programs_Project\Programs_Project\bin\Debug\Programs_Project.exe.config
+D:\Brunda\Programs_Project\Programs_Project\Programs_Project\bin\Debug\Programs_Project.exe
+D:\Brunda\Programs_Project\Programs_Project\Programs_Project\bin\Debug\Programs_Project.pdb
+D:\Brunda\Programs_Project\Programs_Project\Programs_Project\obj\Debug\Programs_Project.exe
+D:\Brunda\Programs_Project\Programs_Project\Programs_Project\obj\Debug\Programs_Project.pdb
