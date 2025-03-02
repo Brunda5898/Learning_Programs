@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Programs_Project.FactorialUsingRecursion</StartupObject>
+    <StartupObject>Programs_Project.OrderStudentHeights</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="FactorialNumber.cs" />
     <Compile Include="FactorialUsingRecursion.cs" />
+    <Compile Include="OrderStudentHeights.cs" />
     <Compile Include="PrintNumberUsingRecursion.cs" />
     <Compile Include="SumofSalaryUsingLinq.cs" />
   </ItemGroup>
