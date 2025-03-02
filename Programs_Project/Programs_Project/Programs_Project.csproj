@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Programs_Project.OrderStudentHeights</StartupObject>
+    <StartupObject>Programs_Project.RenameDeviceName</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -43,6 +43,7 @@
     <Compile Include="FactorialUsingRecursion.cs" />
     <Compile Include="OrderStudentHeights.cs" />
     <Compile Include="PrintNumberUsingRecursion.cs" />
+    <Compile Include="RenameDeviceName.cs" />
     <Compile Include="SumofSalaryUsingLinq.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
