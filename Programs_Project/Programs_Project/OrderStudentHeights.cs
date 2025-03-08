@@ -12,6 +12,17 @@ namespace Programs_Project
 
     //Example : Height = [1,1,3,3,4,1]
     // The 3 stuents indicated in red at indices 2,4, and 5, are not in the right positions. The correct positions are [1,1,1,3,3,4]. Retuen 3
+
+
+    //input:   
+    //5 -- number of entering values
+    //1
+    //1
+    //3
+    //2
+    //1
+
+    //output = 2 -- because in this 2 students (1,3) is not in order
     public class OrderStudentHeights
     {
         public static void Main(string[] args)

@@ -16,6 +16,18 @@ namespace Programs_Project
     //n = 6
     //devicenames = ['switch', tv', 'switch', 'tv,'switch', tv']
     //output = ['switch', tv', 'switch1', 'tv1,'switch2', tv2']
+
+    //input :
+    //3
+    //switch
+    //tv
+    //switch
+
+    //Output:
+    //switch
+    //tv
+    //switch1
+
     public class RenameDeviceName
     {
         public static void Main(string[] args)
