@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Programs_Project.RenameDeviceName</StartupObject>
+    <StartupObject>Programs_Project.RobotOriginPosition</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -41,10 +41,14 @@
   <ItemGroup>
     <Compile Include="FactorialNumber.cs" />
     <Compile Include="FactorialUsingRecursion.cs" />
+    <Compile Include="Game_Move_Tron.cs" />
+    <Compile Include="Nth_Highest_Salary.cs" />
     <Compile Include="OrderStudentHeights.cs" />
     <Compile Include="PrintNumberUsingRecursion.cs" />
     <Compile Include="RenameDeviceName.cs" />
+    <Compile Include="RobotOriginPosition.cs" />
     <Compile Include="SumofSalaryUsingLinq.cs" />
+    <Compile Include="ThirdHighestSalary.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
