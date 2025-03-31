@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Programs_Project.RobotOriginPosition</StartupObject>
+    <StartupObject>Programs_Project.HighestSalaryFromEachDepartment</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -42,6 +42,7 @@
     <Compile Include="FactorialNumber.cs" />
     <Compile Include="FactorialUsingRecursion.cs" />
     <Compile Include="Game_Move_Tron.cs" />
+    <Compile Include="HighestSalaryFromEachDepartment.cs" />
     <Compile Include="Nth_Highest_Salary.cs" />
     <Compile Include="OrderStudentHeights.cs" />
     <Compile Include="PrintNumberUsingRecursion.cs" />
